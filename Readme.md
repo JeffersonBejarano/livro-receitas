@@ -1,4 +1,5 @@
-# Minhas Receitas 
+# Minhas Receitas :man_cook:
 
 
 
+- Strogonoff
